@@ -1,0 +1,191 @@
+@font-face {
+    font-family: BreakingBad;
+    src: url(Breaking\ Bad.ttf);
+    }
+
+body{
+    font-family: Helvetica;
+}
+label{
+    color: white;
+}
+
+.fondo_imagen{
+    background-image: url(./img/fondo.jpg);
+    background-size: cover;
+}
+.titulo{
+    color: white;
+    font-size: xx-large;
+}
+.i_did{
+    color: white;
+    font-size: larger;
+}
+
+#logo{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 30px;
+}
+
+#poster{
+    width: 700px;
+    height: 300px;
+    border: 10px; 
+    border-style: outset; 
+    border-color: brown; 
+    border-radius: 22px;
+    margin: top 20px;
+}
+
+.centro{
+    display:flex;
+   justify-content: center; 
+}
+
+/*ESTILOS DE LA TABLA DE ELEMENTOS*/
+td{
+    width: 65px;
+    height: 50px;
+    text-align: center;
+    line-height: 0%;
+}
+
+#tabla{
+    width: 800px;
+    height: 592px;
+    background-color: #061b08;
+    border-spacing: 10px;
+}
+#tabla_baja{
+    width: 730px;
+    height: 155px;
+    background-color: #061b08;
+    border-spacing: 10px;
+}
+
+#alinear_tabla{
+    display:flex;
+    justify-content: center;
+}
+#alinear_tabla_baja{
+    display:flex;
+    justify-content: center
+
+}
+
+#olive{
+    background-color: #b5db20;
+}
+
+#darkolive{
+    background-color: #828d58;
+}
+
+#wheat{
+    background-color: #eff7c7;
+}
+
+#darkgreen{
+    background-color: #89a41a;
+}
+
+#darkest{
+    background-color: #627126;
+}
+
+#mustard{
+    background-color: #c5e249;
+}
+
+#grey{
+    background-color: #bbc49f;
+}
+
+#yellow{
+    background-color: #d4e87e;
+}
+
+#purple{
+    background-color: #ab8fcc;
+}
+#orange{
+    background-color: orange;
+}
+
+
+h1{
+    font-size:35px;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h3{
+    font-size: 7px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+
+#hank{
+    object-fit: fill;
+}
+
+.ajuste img{
+    max-width: auto;
+    height: 100%;
+}
+#mosca{
+    width: 60px;
+    height: 55px;
+    margin-top: 1px;
+}
+#bus{
+    width: 60px;
+    height: 55px;
+    margin-top: 1px;
+}
+#pistola{
+    width: 60px;
+    height: 55px;
+    margin-top: 1px;
+}
+#pocima{
+    width: 60px;
+    height: 55px;
+    margin-top: 1px;
+}
+#movil{
+    width: 60px;
+    height: 55px;
+    margin-top: 1px;
+}
+#cristal{
+    width: 60px;
+    height: 55px;
+    margin-top: 1px;
+}
+#pizza{
+    width: 60px;
+    height: 55px;
+    margin-top: 1px;
+}
+#calzoncillos{
+    width: 60px;
+    height: 55px;
+    margin-top: 1px;
+}
+#mascara{
+    width: 60px;
+    height: 55px;
+    margin-top: 1px;
+}
+#plato{
+    width: 60px;
+    height: 55px;
+    margin-top: 1px;
+}
